@@ -1077,8 +1077,8 @@ def conflux_oracles():
                 break
             except ValueError:
                 print("")
-                print("     Invalid Input")
-                print(" Please, enter an integer.")
+                print("             Invalid Input")
+                print("       Please, enter an integer.")
         # https://stackoverflow.com/questions/40002645/reject-user-input-if-criteria-not-met-in-python
 
         if user_oracle == first_oracle_set:
@@ -1201,8 +1201,8 @@ def conflux_oracles():
                 break
             except ValueError:
                 print("")
-                print("     Invalid Input")
-                print(" Please, enter an integer.")
+                print("             Invalid Input")
+                print("       Please, enter an integer.")
 
         if user_oracle == second_oracle_set:
             clear()
@@ -1359,8 +1359,8 @@ def conflux_oracles():
                 break
             except ValueError:
                 print("")
-                print("              Invalid Input")
-                print(" Please, enter an integer.")
+                print("             Invalid Input")
+                print("       Please, enter an integer.")
 
         if user_oracle == third_oracle_set:
             clear()
@@ -1553,8 +1553,8 @@ def templar_oracles():
                 break
             except ValueError:
                 print("")
-                print("     Invalid Input")
-                print(" Please, enter an integer.")
+                print("             Invalid Input")
+                print("       Please, enter an integer.")
 
         if user_oracle == first_oracle_set:
             clear()
